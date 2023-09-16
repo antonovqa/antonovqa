@@ -40,7 +40,7 @@
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="[https://www.pngrepo.com/png/354202/512/postman-icon.png](https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png)" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
